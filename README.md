@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: gay
-- ⚡ Fun fact: chakka
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
 
 <!---
 Alphacodae/Alphacodae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
