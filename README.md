@@ -8,7 +8,7 @@
 Tools I use:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,mysql,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,mysql,nodejs,react,js" />
   </a>
 </p>
 
