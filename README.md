@@ -1,4 +1,4 @@
-👋 Hi, I’m Gyanam Shah. I am from Nepal and am pursuing a 4-year B.Tech Computer Science course specialising in Block Chain Technology from SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India.
+👋 Hi, I’m Gyanam Shah. I am from Nepal and am pursuing a 4-year B.Tech Computer Science course specialising in BlockChain Technology from SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India.
 - 👀 I’m interested in Problem Solving & Web Development Skills
 - 🌱 I’m currently collaborating and learning about frontend technologies
 - 💞️ I’m looking to collaborate on full-stack application-based projects Please feel free to reach out via my socials link in the side profile or kindly email me for any work in collaboration
